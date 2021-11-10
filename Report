@@ -1,0 +1,35 @@
+																													
+							            -: Enron Spam Email Classification :-
+																													
+
+Algorithm												Accuracy					Train:Test Data Ratio
+
+														 98.65							    70:30
+
+Logistic Regression								         98.61								60:40
+															
+													     98.89								80:20
+															
+															
+															
+														 97.95								70:30
+
+Support Vector Machine						             97.89								60:40
+															
+														 98.19								80:20
+
+
+
+														 88.50								70:30
+
+K-Nearest Neighbor								         88.27								60:40
+															
+														 89.19								80:20
+															
+															
+															
+														 94.83								70:30
+
+Decision Tree										     94.92								60:40
+															
+														 95.88								80:20
