@@ -3,7 +3,6 @@
 
 The purpose of this project is to demonstrate classification of ham and spam email using machine learning classification algorithms.
 
-***
 
 ### Used Dataset
 
@@ -13,8 +12,6 @@ I have used rich Enron-Spam dataset:
 
 
 ## Installation Steps
-
-***
 
 
 - Clone the repository
