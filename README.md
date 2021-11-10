@@ -1,6 +1,5 @@
 # Enron Spam Email Classifier
 
-***
 
 The purpose of this project is to demonstrate classification of ham and spam email using machine learning classification algorithms.
 
